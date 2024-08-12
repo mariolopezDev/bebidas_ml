@@ -1,0 +1,6 @@
+@bebidas_ml_HostAddress = http://localhost:5254
+
+GET {{bebidas_ml_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
